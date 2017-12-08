@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the China Air Quality Scraper feature.
+ */
+
+include_once 'china_air_quality_scraper.features.inc';
